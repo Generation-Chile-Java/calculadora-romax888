@@ -18,3 +18,28 @@
     - Imprime los resultados de cada operación en la consola.
 5. **Características Adicionales:**
     - Permite al usuario ingresar valores para los operandos a través de la consola.
+
+# 📊 CalculadoraJava
+
+**CalculadoraJava** es una aplicación de consola desarrollada en Java que permite realizar operaciones aritméticas básicas entre dos números ingresados por el usuario. Este proyecto fue desarrollado como parte del bootcamp **Generation Chile - Cohorte 20**, con foco en fortalecer habilidades en programación Java, control de flujo, entrada de datos y validación de errores.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Ingreso de dos valores numéricos desde consola
+- ➕ Suma
+- ➖ Resta
+- ✖️ Multiplicación
+- ➗ División (con validación de división por cero)
+- 🧮 Módulo (resto de la división)
+- ⚠️ Manejo de errores con `try-catch` para entradas inválidas
+
+---
+
+## 🧑‍💻 Cómo ejecutar el proyecto
+
+1. Clona el repositorio:
+
+```bash
+git clone https://github.com/Generation-Chile-Java/calculadora-romax888.git
